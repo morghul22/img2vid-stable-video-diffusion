@@ -1,0 +1,9 @@
+Pillow
+google-colab
+torch
+torchvision
+opencv-python-headless
+omegaconf
+numpy
+einops
+gradio
